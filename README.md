@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/ShivekRanjan/ShivekRanjan/blob/main/gif.gif?raw=true" alt="Highlights Gif" width="200" />
+      <img src="https://github.com/ShivekRanjan/ShivekRanjan/blob/main/Cat%20Halloween%20GIF.gif?raw=true" alt="Highlights Gif" width="200" />
     </td>
   </tr>
 </table>
