@@ -9,12 +9,23 @@
 ---
 
 <h3 align="left">🚀 Highlights</h3>
-<ul>
-  <li>Contributed to multiple hackathons with award-winning projects.</li>
-  <li>Completed internships enhancing real-world software and machine learning expertise.</li>
-  <li>Published academic research focusing on network security and privacy.</li>
-  <li>Collaborative team player with a flair for creative problem-solving.</li>
-</ul>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Contributed to multiple hackathons with award-winning projects.</li>
+        <li>Completed internships enhancing real-world software and machine learning expertise.</li>
+        <li>Published academic research focusing on network security and privacy.</li>
+        <li>Collaborative team player with a flair for creative problem-solving.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/ShivekRanjan/ShivekRanjan/blob/main/gif.gif?raw=true" alt="Highlights Gif" width="200" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
