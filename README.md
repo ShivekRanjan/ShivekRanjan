@@ -65,7 +65,7 @@
 
 <h3 align="left">🌱 Currently Learning & Exploring</h3>
 <ul>
-  <li>Machine learning and AI techniques</li>
+  <li>Cutting-edge machine learning and AI techniques</li>
   <li>Modern web development frameworks and architecture</li>
   <li>Privacy-preserving network security technologies</li>
   <li>Open source collaboration and contributions</li>
