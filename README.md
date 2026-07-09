@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivek Ranjan</h1>
 
-<h3 align="center">3rd Year Computer Science Engineering Student at IIIT Bangalore | Passionate Software Developer & Machine Learning Enthusiast</h3>
+<h3 align="center">4th Year Computer Science Engineering Student at IIIT Bangalore | Passionate Software Developer & Machine Learning Enthusiast</h3>
 
 <p align="center">
   Driven by curiosity and innovation, I specialize in crafting robust software solutions and exploring intelligent systems. Proficient in Python, Java, C/C++, and experienced in web development, ML applications, and UI/UX design with Figma. I actively contribute to hackathons, internships, and research projects to sharpen my skills and impact real-world technology.
